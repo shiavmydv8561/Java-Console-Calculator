@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Task1 {
 
-    // Methods for arithmetic operations
+    
     public static double add(double a, double b) {
         return a + b;
     }
@@ -79,3 +79,4 @@ public class Task1 {
         scanner.close();
     }
 }
+
